@@ -26,4 +26,4 @@ TODO:
 
 ## Contributors
 
-- [[your-github-name]](https://github.com/[your-github-name]) maarten - creator, maintainer
+- [[N0r1x]](https://github.com/[N0r1x]) N0r1x - creator, maintainer
